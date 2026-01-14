@@ -2,40 +2,40 @@ globalThis.__BUILD_MANIFEST = {
   "pages": {
     "/": [
       "static/chunks/12bffe3d6bb81698.js",
-      "static/chunks/02f043a25ea98820.js",
-      "static/chunks/3254ba53c4695283.js",
-      "static/chunks/turbopack-3c25bebbd23cf980.js"
+      "static/chunks/419db69e1a0cf48a.js",
+      "static/chunks/8841f0d1d16009b2.js",
+      "static/chunks/turbopack-0995c7756b9d1017.js"
     ],
     "/_app": [
       "static/chunks/6cce534bc9c6dd7b.js",
-      "static/chunks/02f043a25ea98820.js",
-      "static/chunks/3254ba53c4695283.js",
+      "static/chunks/419db69e1a0cf48a.js",
+      "static/chunks/8841f0d1d16009b2.js",
       "static/chunks/6d8229308ea05c16.css",
-      "static/chunks/turbopack-8114568ba6ab0e0a.js"
+      "static/chunks/turbopack-b635cfe5104ffe68.js"
     ],
     "/_error": [
       "static/chunks/477d4a4d183c187a.js",
-      "static/chunks/02f043a25ea98820.js",
-      "static/chunks/3254ba53c4695283.js",
-      "static/chunks/turbopack-9878deb24b10c6d4.js"
+      "static/chunks/419db69e1a0cf48a.js",
+      "static/chunks/8841f0d1d16009b2.js",
+      "static/chunks/turbopack-88a58b97094edece.js"
     ],
     "/blog": [
       "static/chunks/56fa42aae5017384.js",
-      "static/chunks/02f043a25ea98820.js",
-      "static/chunks/3254ba53c4695283.js",
-      "static/chunks/turbopack-6d695aa627772046.js"
+      "static/chunks/419db69e1a0cf48a.js",
+      "static/chunks/8841f0d1d16009b2.js",
+      "static/chunks/turbopack-34ff96d6c0ede8f4.js"
     ],
     "/planos": [
       "static/chunks/22b1f3d0c3974805.js",
-      "static/chunks/02f043a25ea98820.js",
-      "static/chunks/3254ba53c4695283.js",
-      "static/chunks/turbopack-66a8c3e4b4a5bf92.js"
+      "static/chunks/419db69e1a0cf48a.js",
+      "static/chunks/8841f0d1d16009b2.js",
+      "static/chunks/turbopack-42465a0a485d9c52.js"
     ],
     "/sobre": [
       "static/chunks/e054930f5b18f575.js",
-      "static/chunks/02f043a25ea98820.js",
-      "static/chunks/3254ba53c4695283.js",
-      "static/chunks/turbopack-cf872ea8ae80ef83.js"
+      "static/chunks/419db69e1a0cf48a.js",
+      "static/chunks/8841f0d1d16009b2.js",
+      "static/chunks/turbopack-4a80e6f532463897.js"
     ]
   },
   "devFiles": [],
