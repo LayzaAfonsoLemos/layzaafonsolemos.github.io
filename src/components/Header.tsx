@@ -17,23 +17,23 @@ const Header: React.FC = () => {
             <div className="container">
                 <div className="header-inner">
                     <h1 className="site-logo">
-                        <Link href="/" className="nav-link">
-                            <img src="/vortex-logo.png" alt="Vortex Logo" className="logo-image" />
+                        <Link href="" className="nav-link">
+                            <img src="vortex-logo.png" alt="Vortex Logo" className="logo-image" />
                         </Link>
                     </h1>
                     <nav>
                         <ul className="nav-list">
                             <li className={`nav-item ${isActive('/') ? 'active' : ''}`}>
-                                <Link href="/" className="nav-link">Serviços</Link>
+                                <Link href="" className="nav-link">Serviços</Link>
                             </li>
                             <li className={`nav-item ${isActive('/sobre') ? 'active' : ''}`}>
-                                <Link href="/sobre" className="nav-link">Sobre</Link>
+                                <Link href="sobre" className="nav-link">Sobre</Link>
                             </li>
                             <li className={`nav-item ${isActive('/blog') ? 'active' : ''}`}>
-                                <Link href="/blog" className="nav-link">Blog</Link>
+                                <Link href="blog" className="nav-link">Blog</Link>
                             </li>
                             <li className={`nav-cta ${isActive('/planos') ? 'active' : ''}`}>
-                                <Link href="/planos" className="btn-primary">Orçamento</Link>
+                                <Link href="planos" className="btn-primary">Orçamento</Link>
                             </li>
                         </ul>
                     </nav>

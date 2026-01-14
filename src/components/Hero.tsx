@@ -9,7 +9,7 @@ const Hero: React.FC = () => {
             <div className="hero-title-centered">
                 <h1 className="hero-title">A ENERGIA QUE SEU SITE PRECISA</h1>
                 <p className="hero-description">Transforme sua presença digital com design profissional e performance otimizada.</p>
-                <a href="/planos" className="hero-cta-button">Conheça nossos planos</a>
+                <a href="planos" className="hero-cta-button">Conheça nossos planos</a>
             </div>
         </div>
     );
