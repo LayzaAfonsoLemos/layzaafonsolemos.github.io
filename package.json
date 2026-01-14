@@ -20,7 +20,6 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "stripe": "^8.0.0",
     "tailwindcss": "^2.0.0"
   },
   "devDependencies": {
