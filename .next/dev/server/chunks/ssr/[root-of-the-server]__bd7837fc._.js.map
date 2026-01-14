@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/layza/Desktop/Vortex/Vortex/vortex-ecommerce-site/src/pages/blog.tsx"],"sourcesContent":["import React from 'react';\n\nconst Blog: React.FC = () => {\n    return (\n        <div>\n            <h1>Blog</h1>\n            <p>Welcome to our blog! Here you will find the latest articles and updates.</p>\n            {/* Add blog posts here */}\n        </div>\n    );\n};\n\nexport default Blog;"],"names":[],"mappings":";;;;;;AAEA,MAAM,OAAiB;IACnB,qBACI,qKAAC;;0BACG,qKAAC;0BAAG;;;;;;0BACJ,qKAAC;0BAAE;;;;;;;;;;;;AAIf;uCAEe","debugId":null}}]
+}

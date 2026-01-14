@@ -1,0 +1,32 @@
+{
+  "name": "vortex-ecommerce-site",
+  "version": "1.0.0",
+  "description": "E-commerce site for creating websites",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "ecommerce",
+    "nextjs",
+    "typescript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "stripe": "^8.0.0",
+    "tailwindcss": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.2",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "typescript": "latest"
+  }
+}
